@@ -298,7 +298,7 @@ A compact Turing-incomplete programming language used in transaction *inputs* an
 
 ### SDK
 
-An abbreviation for Software Development Kit. [lbry-sdk](/glossary#lbry-sdk) is an SDK for developing applications that use the LBRY protocol.
+An abbreviation for Software Development Kit. [lbry-sdk](#lbry-sdk) is an SDK for developing applications that use the LBRY protocol.
 
 ### Secret key
 
@@ -346,7 +346,7 @@ Found in the [manifest](#manifest), this is the cryptographic key needed to decr
 
 ### Support (Claim Support)
 
-Same as [[Claim Support]].  A support is a wallet send transaction that includes claim information, which results in adding to a claim's effective amount. A tip is a special type of support that is sent from one wallet to another, so that the receiver can send it to their own wallet.
+Same as [Claim Support](#claim-support). A support is a wallet send transaction that includes claim information, which results in adding to a claim's effective amount. A tip is a special type of support that is sent from one wallet to another, so that the receiver can send it to their own wallet.
 
 ### Takeover Period
 
